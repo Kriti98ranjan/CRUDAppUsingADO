@@ -27,7 +27,7 @@ A simple **ASP.NET MVC application** that performs **CRUD operations** (Create, 
 Author
 Kriti Ranjan
 .NET Developer
-🔗 GitHub | www.linkedin.com/in/kriti-ranjan-6684b827b
+https://github.com/Kriti98ranjan | www.linkedin.com/in/kriti-ranjan-6684b827b
 
 
 
